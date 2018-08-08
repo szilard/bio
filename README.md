@@ -7,4 +7,4 @@ LinkedIn: [szilard](https://www.linkedin.com/in/szilard) <br>
 Twitter: [@DataScienceLA](https://twitter.com/datasciencela) <br>
 Github: [@szilard](https://github.com/szilard/)
 
-![](https://avatars3.githubusercontent.com/u/844827?s=460&v=4)
+![](https://avatars3.githubusercontent.com/u/844827?s=200)
