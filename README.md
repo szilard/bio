@@ -5,6 +5,6 @@ Szilard studied Physics in the 90s and obtained a PhD by using statistical metho
 
 LinkedIn: [https://www.linkedin.com/in/szilard](https://www.linkedin.com/in/szilard) <br>
 Twitter: [https://twitter.com/DataScienceLA](https://twitter.com/DataScienceLA) <br>
-Github: [https://github.com/szilard/](https://github.com/szilard/)
+Github: [https://github.com/szilard](https://github.com/szilard)
 
 ![](https://avatars3.githubusercontent.com/u/844827?s=200)
